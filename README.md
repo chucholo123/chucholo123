@@ -1,196 +1,170 @@
-<!-- ═══════════════════════════════════════════════════ -->
-<!--              CYBERPUNK HEADER BANNER               -->
-<!-- ═══════════════════════════════════════════════════ -->
-
+<!-- CYBERPUNK HEADER -->
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00FF9C,100:00BFFF&height=200&section=header&text=BACKEND.ENGINEER&fontSize=42&fontColor=0d0d0d&fontAlignY=38&animation=fadeIn&desc=Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descSize=16&descColor=0d0d0d)](https://github.com/YOUR_USERNAME)
+```
+▓█████▄  ██▓  ▄████  ██▓▄▄▄█████▓ ▄▄▄       ██▓
+▒██▀ ██▌▓██▒ ██▒ ▀█▒▓██▒▓  ██▒ ▓▒▒████▄    ▓██▒
+░██   █▌▒██▒▒██░▄▄▄░▒██▒▒ ▓██░ ▒░▒██  ▀█▄  ▒██░
+░▓█▄   ▌░██░░▓█  ██▓░██░░ ▓██▓ ░ ░██▄▄▄▄██ ░██░
+░▒████▓ ░██░░▒▓███▀▒░██░  ▒██▒ ░  ▓█   ▓██▒░██░
+ ▒▒▓  ▒ ░▓   ░▒   ▒ ░▓    ▒ ░░    ▒▒   ▓▒█░░▓
+ ░ ▒  ▒  ▒ ░  ░   ░  ▒ ░    ░      ▒   ▒▒ ░ ▒ ░
+```
 
-<!-- GLITCH TYPING ANIMATION -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&random=false&width=600&height=60&lines=%5BBOOT%5D+Initializing+developer+profile...;%5BOK%5D+Java+%26+Spring+Boot+loaded;%5BOK%5D+Microservices+architecture+online;%5BOK%5D+Databases+connected+%E2%9C%93;%5BOK%5D+Tests+passing+%E2%9C%93;%5BREADY%5D+All+systems+nominal.)
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%5BSYS%3A%3AONLINE%5D+Backend+Engineer+%2F%2F+Java+%26+Spring;%5BNET%3A%3AACTIVE%5D+Microservices+%2F%2F+Distributed+Systems;%5BSEC%3A%3AENABLED%5D+Spring+Security+%2F%2F+JWT+%2F%2F+OAuth2;%5BSTATUS%3A%3AREADY%5D+Clean+Code+%2F%2F+Test-Driven+Dev" alt="Typing SVG" />
+
+![](https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/CLEARANCE-BACKEND__ENGINEER-FF003C?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/SYSTEM-JAVA__SPRING__BOOT-BC13FE?style=flat-square&labelColor=0a0a0a)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                   ABOUT ME                         -->
-<!-- ═══════════════════════════════════════════════════ -->
+<!-- TERMINAL INTRO -->
+```zsh
+╔══════════════════════════════════════════════════════════════════╗
+║  NEURAL_NET://identity.init()                                    ║
+╠══════════════════════════════════════════════════════════════════╣
+║  > class:       Backend Engineer                                 ║
+║  > speciality:  Java · Spring Boot · Microservices               ║
+║  > status:      Building systems that never break                ║
+║  > uptime:      99.9%                                            ║
+║  > directive:   Clean code. Tested code. Scalable code.          ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<!-- TECH STACK -->
+## ⚡ `// TECH_STACK.exe`
+
+### ▸ CORE SYSTEMS
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/SPRING__BOOT-00FF9C?style=for-the-badge&logo=spring-boot&logoColor=black)
+![Spring Security](https://img.shields.io/badge/SPRING__SECURITY-BC13FE?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/SPRING__JPA-00FF9C?style=for-the-badge&logo=spring&logoColor=black)
+
+### ▸ ARCHITECTURE PROTOCOLS
+![Microservices](https://img.shields.io/badge/MICROSERVICES-FF003C?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![REST API](https://img.shields.io/badge/REST__API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Kafka](https://img.shields.io/badge/KAFKA-BC13FE?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RABBITMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Maven](https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+### ▸ DATA NODES — RELATIONAL
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-00FF9C?style=for-the-badge&logo=postgresql&logoColor=black)
+![MySQL](https://img.shields.io/badge/MYSQL-FF003C?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ▸ DATA NODES — NON-RELATIONAL
+![MongoDB](https://img.shields.io/badge/MONGODB-BC13FE?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-FF003C?style=for-the-badge&logo=redis&logoColor=white)
+
+### ▸ TEST SUITE
+![JUnit5](https://img.shields.io/badge/JUNIT5-00FF9C?style=for-the-badge&logo=junit5&logoColor=black)
+![Mockito](https://img.shields.io/badge/MOCKITO-BC13FE?style=for-the-badge&logo=java&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/TESTCONTAINERS-FF003C?style=for-the-badge&logo=docker&logoColor=white)
+
+### ▸ INFRASTRUCTURE
+![Docker](https://img.shields.io/badge/DOCKER-00CFFF?style=for-the-badge&logo=docker&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GITHUB__ACTIONS-BC13FE?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-FF003C?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<!-- CODE BLOCK -->
+## 💀 `// RUNTIME_IDENTITY.java`
 
 ```java
+/**
+ * ██████╗ ███████╗██╗   ██╗
+ * ██╔══██╗██╔════╝██║   ██║
+ * ██║  ██║█████╗  ██║   ██║
+ * ██║  ██║██╔══╝  ╚██╗ ██╔╝
+ * ██████╔╝███████╗ ╚████╔╝
+ * ╚═════╝ ╚══════╝  ╚═══╝
+ */
 @Component
-public class Developer {
+@Slf4j
+public class BackendEngineer implements Developer {
 
-    @Value("${role}")         String role       = "Backend Engineer";
-    @Value("${stack}")        String stack      = "Java · Spring Boot · Microservices";
-    @Value("${focus}")        String focus      = "Distributed systems & clean architecture";
-    @Value("${philosophy}")   String philosophy = "Test it. Document it. Ship it.";
+    @Value("${dev.role}")
+    private final String ROLE = "Backend Engineer";
+
+    private final Map<String, String[]> SYSTEMS_ONLINE = Map.of(
+        "FRAMEWORKS",  new String[]{ "Spring Boot", "Spring Security", "Spring Data JPA" },
+        "DATABASES",   new String[]{ "PostgreSQL", "MySQL", "MongoDB", "Redis" },
+        "PATTERNS",    new String[]{ "Microservices", "REST", "Event-Driven" },
+        "TESTING",     new String[]{ "JUnit5", "Mockito", "TDD", "Testcontainers" },
+        "SECURITY",    new String[]{ "JWT", "OAuth2", "Role-Based Access Control" }
+    );
 
     @PostConstruct
-    public void init() {
-        System.out.println("[BOOT] Developer online. All systems nominal.");
+    public void boot() {
+        log.info("[ SYS ] Identity module loaded.");
+        log.info("[ NET ] All systems nominal.");
+        log.info("[ SEC ] Firewall active. Unauthorized access denied.");
+        log.info("[ RDY ] Awaiting deployment...");
     }
 }
 ```
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                  TECH STACK                        -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## ⚡ TECH STACK
-
-<!-- ANIMATED SKILL ICONS (hover effects built in) -->
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,postgres,mysql,mongodb,redis,kafka,docker,git,github,linux&theme=dark&perline=7)](https://skillicons.dev)
-
-</div>
-
-<br/>
-
-### ▸ Core
-![Java](https://img.shields.io/badge/JAVA-%23FF0000.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-%2300C853.svg?style=flat-square&logo=spring-boot&logoColor=black)
-![Spring Security](https://img.shields.io/badge/SPRING_SECURITY-%2300C853.svg?style=flat-square&logo=springsecurity&logoColor=black)
-![JPA/Hibernate](https://img.shields.io/badge/JPA_/_HIBERNATE-%2300C853.svg?style=flat-square&logo=spring&logoColor=black)
-
-### ▸ Architecture
-![Microservices](https://img.shields.io/badge/MICROSERVICES-%2300BFFF.svg?style=flat-square&logo=azurefunctions&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
-![Kafka](https://img.shields.io/badge/KAFKA-%23000000.svg?style=flat-square&logo=apache-kafka&logoColor=white)
-![Maven](https://img.shields.io/badge/MAVEN-%23C71A36.svg?style=flat-square&logo=apache-maven&logoColor=white)
-
-### ▸ Databases
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-%234EA94B.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/REDIS-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
-
-### ▸ Testing
-![JUnit5](https://img.shields.io/badge/JUNIT_5-%2325A162.svg?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/MOCKITO-%231E8CBE.svg?style=flat-square&logo=java&logoColor=white)
-![Testcontainers](https://img.shields.io/badge/TESTCONTAINERS-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-
-### ▸ DevOps
-![Docker](https://img.shields.io/badge/DOCKER-%232CA5E0.svg?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-
----
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--              ARCHITECTURE DIAGRAM                  -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## 🧠 SYSTEMS I BUILD
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║  [ CLIENT ]                                               ║
-║      │                                                    ║
-║      ▼                                                    ║
-║  [ API GATEWAY ]──── JWT / OAuth2 ─── Spring Security     ║
-║      │                                                    ║
-║      ├──── [ USER SERVICE ]    ──── PostgreSQL            ║
-║      ├──── [ PRODUCT SERVICE ] ──── MongoDB               ║
-║      ├──── [ ORDER SERVICE ]   ──── MySQL                 ║
-║      └──── [ CACHE LAYER ]     ──── Redis                 ║
-║                │                                          ║
-║           [ Kafka Bus ]                                   ║
-║                │                                          ║
-║      ├──── [ NOTIFICATION SERVICE ]                       ║
-║      └──── [ AUDIT SERVICE ]                              ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                GITHUB STATS                        -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## 📊 GITHUB STATS
+<!-- STATS -->
+## 📡 `// SYSTEM_METRICS`
 
 <div align="center">
 
-<!-- ANIMATED STATS CARDS -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF9C&icon_color=00FF9C&text_color=c0c0c0&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF9C&text_color=c0c0c0" width="42%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF9C&icon_color=BC13FE&text_color=ffffff&border_color=00FF9C)
 
-<br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF9C&text_color=ffffff)
 
-<!-- ANIMATED STREAK -->
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d0d0d&ring=00FF9C&fire=00BFFF&currStreakLabel=00FF9C&sideLabels=c0c0c0&dates=888888" width="55%"/>
-
-<br/><br/>
-
-<!-- ANIMATED ACTIVITY GRAPH -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d0d0d&color=00FF9C&line=00BFFF&point=FF0055&area=true&area_color=00FF9C&hide_border=true&custom_title=COMMIT+ACTIVITY)](https://github.com/YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0a0a0a&ring=BC13FE&fire=FF003C&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=ffffff)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--               EXPERTISE MATRIX                     -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## 🗂️ EXPERTISE MATRIX
+<!-- MATRIX TABLE -->
+## 🔐 `// EXPERTISE_MATRIX`
 
 ```
-╔══════════════════════╦══════════════════════════════════════════════╗
-║  DOMAIN              ║  TOOLS & CONCEPTS                            ║
-╠══════════════════════╬══════════════════════════════════════════════╣
-║  API Design          ║  REST, versioning, HATEOAS, OpenAPI/Swagger  ║
-║  Security            ║  Spring Security, JWT, OAuth2, RBAC          ║
-║  Persistence         ║  JPA/Hibernate, Flyway, Liquibase            ║
-║  Messaging           ║  Kafka, RabbitMQ                             ║
-║  Observability       ║  Actuator, Micrometer, Distributed Tracing   ║
-║  Testing             ║  Unit, Integration, TDD, Testcontainers      ║
-╚══════════════════════╩══════════════════════════════════════════════╝
+╔══════════════════════╦══════════════════════════════════════════════════╗
+║  MODULE              ║  TOOLS & PROTOCOLS                               ║
+╠══════════════════════╬══════════════════════════════════════════════════╣
+║  API Design          ║  REST · versioning · OpenAPI/Swagger · HATEOAS   ║
+║  Security            ║  Spring Security · JWT · OAuth2 · RBAC           ║
+║  Persistence         ║  JPA/Hibernate · Flyway · Liquibase              ║
+║  Messaging           ║  Kafka · RabbitMQ · Event-driven architecture    ║
+║  Observability       ║  Actuator · Micrometer · Distributed tracing     ║
+║  Testing             ║  Unit · Integration · TDD · Testcontainers       ║
+╚══════════════════════╩══════════════════════════════════════════════════╝
 ```
 
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
+---
+
+<!-- CONTACT -->
+## 🌐 `// ESTABLISH_CONNECTION`
+
 <div align="center">
 
-### 🐍 CONTRIBUTION SNAKE
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-> ⚙️ _To enable the snake: go to your profile repo → Actions → enable workflows → add the [snake workflow](https://github.com/Platane/snk#readme)_
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/EMAIL-FF003C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-BC13FE?style=for-the-badge&logo=github&logoColor=white)](https://YOUR_PORTFOLIO)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                   CONNECT                          -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## 📡 CONNECT
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/EMAIL-%23FF0055.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%2300FF9C.svg?style=for-the-badge&logo=github&logoColor=black)](https://YOUR_PORTFOLIO)
+```
+[ CONNECTION ESTABLISHED ] // [ PING: 0ms ] // [ PACKET LOSS: 0% ]
+```
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=BC13FE&style=flat-square&label=SYSTEM+ACCESSES)
 
----
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--               ANIMATED FOOTER                      -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-<div align="center">
-
-`[ SYS.STATUS: ONLINE ]` `[ COMMITS: ACTIVE ]` `[ COFFEE: LOW ]`
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FF9C&style=flat-square&label=PROFILE+VIEWS)
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:00FF9C,100:0d0d0d&height=120&section=footer&animation=twinkling)](https://github.com/YOUR_USERNAME)
+*// end_of_file — jack out carefully, choom.*
 
 </div>
